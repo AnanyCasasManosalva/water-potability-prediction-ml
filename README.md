@@ -24,7 +24,9 @@ Each observation represents a water sample described by several physicochemical 
 - Turbidity
 
 Target variable:
-- **Potability** (1 = Potable, 0 = Not Potable)
+- **Potability**  
+  - 1 = Potable  
+  - 0 = Not potable
 
 ## Data Preprocessing
 The data preprocessing pipeline includes:
